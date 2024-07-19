@@ -1,0 +1,45 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 95%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+table,thead,tbody,tr,td,th{
+    border: 1px solid wheat;
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+.action{
+    text-align: center;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+.edit{
+    cursor: pointer;
+}
