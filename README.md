@@ -13,5 +13,9 @@ const db = mysql.createConnection({
 Inside this we have employee table with coloumn
 ![image](https://github.com/user-attachments/assets/cac9c623-0d71-4813-9c53-01592e5ce0d8)
 
+Screenshot
+![image](https://github.com/user-attachments/assets/a346591f-c798-43e5-9039-1e15f6d03874)
+
+
 Enjoy
 
