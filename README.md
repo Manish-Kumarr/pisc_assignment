@@ -1,5 +1,5 @@
 1. Open the folder after cloning
-2. in Terminal    cd/clent -> npm i -> npm run dev
+2. in Terminal    cd/client -> npm i -> npm run dev
 3.                 cd/server -> npm i -> npm start
 
 Change the crendential according to yours in server index.js file
